@@ -1,5 +1,6 @@
-Swal.fire ({
-    Title: "You´re welcome"
-});
+Swal.fire (
+  Title = "Click here",
+ "Its works"
+    );
 
 
